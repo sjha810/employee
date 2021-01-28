@@ -1,5 +1,14 @@
 {
   "employee": [
+    {
+      "id":1,
+      "Name":"user",
+      "Pan":"ASD4589OIU",
+      "Age":25,
+      "Gender":"Male",
+      "Email":"user@mail.com",
+      "City":"New Delhi"
+    }
     
   ]
 }
